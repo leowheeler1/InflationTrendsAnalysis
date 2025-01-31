@@ -1,7 +1,7 @@
 # Authors
 - Leo Wheeler
 - Jackson Popelka
-- Kimnarlee Tran
+- Kimarlee Tran
 - Jacob Brown
 - Liliana Guevara-Guerrero
 
