@@ -4,3 +4,6 @@
 - Kimnarlee Tran
 - Jacob Brown
 - Liliana Guevara-Guerrero
+
+
+https://www.bls.gov/cpi/
