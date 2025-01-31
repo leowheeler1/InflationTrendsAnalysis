@@ -1,2 +1,6 @@
-# project1
-all work for project 1
+# Authors
+- Leo Wheeler
+- Jackson Popelka
+- Kimnarlee Tran
+- Jacob Brown
+- Liliana Guevara-Guerrero
