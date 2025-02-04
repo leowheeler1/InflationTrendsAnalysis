@@ -14,6 +14,8 @@ The aim of our project is to search for patterns in the CPI for 3 foodstuffs cat
 - What patterns are prevalent among each food category?
 - What are the factors that possibly influenced trends in the data during the 5-year timeframe?
 
+# Analysis
+more to come here
 
 # Sources/Resources
 https://www.bls.gov/cpi/
