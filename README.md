@@ -25,3 +25,6 @@ U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: D
 U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average [CUSR0000SAF112], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CUSR0000SAF112, January 30, 2025.
 
 U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average [CUSR0000SAF113], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CUSR0000SAF113, January 30, 2025.
+
+https://www.bls.gov/cps/tables.htm
+https://data.census.gov/table?q=S2201:%20Food%20Stamps/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)&y=2021
