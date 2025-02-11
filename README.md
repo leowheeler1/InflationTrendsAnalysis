@@ -38,5 +38,3 @@ U.S. Bureau of Labor Statistics, Labor Force Statistics from the Current Populat
 
 U.S. Census Bureau, S2201: Food Stamps/Supplemental Nutrition Assistance Program (SNAP), https://data.census.gov/table/ACSST1Y2023.S2201?q=S2201:%20Food%20Stamps/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP), February 10, 2025
 https://www.bls.gov/cps/tables.htm
-
-https://data.census.gov/table?q=S2201:%20Food%20Stamps/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)&y=2021
