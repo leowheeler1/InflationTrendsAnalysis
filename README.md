@@ -26,4 +26,5 @@ U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: F
 
 U.S. Bureau of Labor Statistics, Labor Force Statistics from the Current Population Survey, https://www.bls.gov/cps/tables.htm, February 10, 2025
 
+
 U.S. Census Bureau, S2201: Food Stamps/Supplemental Nutrition Assistance Program (SNAP), https://data.census.gov/table/ACSST1Y2023.S2201?q=S2201:%20Food%20Stamps/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP), February 10, 2025
